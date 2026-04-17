@@ -25,5 +25,6 @@ screen -r # you can use this to reenter or reattach to ollama serve screen
 # in main screen run this it will talk to ollama serve screen and get it done and ready
 ollama pull gemma4:latest
 ollama run gemma4:latest
+..
+Ask your questions in termnial
 ```
-Ask your questions in termnial 
