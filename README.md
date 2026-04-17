@@ -6,8 +6,7 @@
 %load_ext colabxterm
 %xterm
 
-
-pip install screen zstd
+apt install screen zstd
 
 curl -fsSL https://ollama.com/install.sh | sh
 
